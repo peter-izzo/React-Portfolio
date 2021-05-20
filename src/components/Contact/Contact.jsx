@@ -25,6 +25,7 @@ const Contact = () => {
             >
               {btn || "Let's Talk"}
             </a>
+            <p>peter.izzo528@gmail.com</p>
           </div>
         </Fade>
       </Container>
